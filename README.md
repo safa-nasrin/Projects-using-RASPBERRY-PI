@@ -9,6 +9,7 @@ The robot detects a person using a webcam and follows them by controlling DC mot
 ## Hardware Components
 - Raspberry Pi 4 (2GB)
 - L298N Motor Driver
+- Li-ion Battery x 2
 - 2 DC Motors
 - Webcam
 - Power Bank (to power Raspberry Pi & motors)
