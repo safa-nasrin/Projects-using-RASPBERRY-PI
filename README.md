@@ -50,10 +50,7 @@ The robot detects a person using a webcam and follows them by controlling DC mot
 1. Connect Raspberry Pi 4, L298N, motors, and webcam according to GPIO table  
 2. Install required Python libraries:
 ```bash
-pip install opencv-python ultralytics RPi.GPIO
 
-
------------------------------------------------------------------- 
 
 
 ## Photos
