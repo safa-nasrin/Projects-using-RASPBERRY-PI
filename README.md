@@ -53,6 +53,9 @@ The robot detects a person using a webcam and follows them by controlling DC mot
 pip install opencv-python ultralytics RPi.GPIO
 
 
+------------------------------------------------------------------ 
+
+
 ## Photos
 
 ![IMG_9556](https://github.com/user-attachments/assets/0b122682-dbf6-409d-9c62-52b505082e47)
