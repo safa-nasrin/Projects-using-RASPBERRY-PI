@@ -51,3 +51,19 @@ The robot detects a person using a webcam and follows them by controlling DC mot
 2. Install required Python libraries:
 ```bash
 pip install opencv-python ultralytics RPi.GPIO
+
+
+## Photos
+
+![IMG_9556](https://github.com/user-attachments/assets/0b122682-dbf6-409d-9c62-52b505082e47)
+
+
+## System Architecture Design
+
+<img width="1024" height="1536" alt="Rasp" src="https://github.com/user-attachments/assets/afc61ca7-44b1-4299-b2d9-9e8a0a883f97" />
+
+
+## Human Following using Raspberry Pi 4 - 2GB
+
+https://github.com/user-attachments/assets/13eb64be-4ff5-41b5-83bb-d8f1d89032c5
+
