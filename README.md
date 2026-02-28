@@ -1,7 +1,7 @@
-# Human Following Robot using Raspberry Pi and YOLO
+# Human Following Prototype using Raspberry Pi and YOLO
 
 ## Description
-This project is a **human-following robot** powered by a Raspberry Pi 4 and YOLOv8 object detection.  
+This project is a **human-following prototype** powered by a Raspberry Pi 4 and YOLOv8 object detection.  
 The robot detects a person using a webcam and follows them by controlling DC motors through an L298N motor driver.  
 
 ---
@@ -60,7 +60,7 @@ pip install opencv-python ultralytics RPi.GPIO
 
 ## System Architecture Design
 
-<img width="1024" height="1536" alt="Rasp" src="https://github.com/user-attachments/assets/76a65ebc-7b6d-40b0-bcfa-e263d7218cdc" />
+<img width="848" height="1264" alt="Rsp2" src="https://github.com/user-attachments/assets/ec220c61-5008-4329-b5a2-78856fc03ce9" />
 
 
 ## Human Following using Raspberry Pi 4 - 2GB
