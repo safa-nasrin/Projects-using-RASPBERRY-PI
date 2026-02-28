@@ -55,15 +55,21 @@ The robot detects a person using a webcam and follows them by controlling DC mot
 
 ## Photos
 
-![IMG_9556](https://github.com/user-attachments/assets/0b122682-dbf6-409d-9c62-52b505082e47)
+![IMG_9556](https://github.com/user-attachments/assets/c4b4ec24-f9f7-4d9a-86bf-3a18f60c2a32)
 
 
 ## System Architecture Design
 
-<img width="1024" height="1536" alt="Rasp" src="https://github.com/user-attachments/assets/afc61ca7-44b1-4299-b2d9-9e8a0a883f97" />
+<img width="1024" height="1536" alt="Rasp" src="https://github.com/user-attachments/assets/76a65ebc-7b6d-40b0-bcfa-e263d7218cdc" />
 
 
 ## Human Following using Raspberry Pi 4 - 2GB
 
-https://github.com/user-attachments/assets/13eb64be-4ff5-41b5-83bb-d8f1d89032c5
+https://github.com/user-attachments/assets/81872c14-b564-4299-844a-7ab85323a140
+
+
+
+
+
+
 
